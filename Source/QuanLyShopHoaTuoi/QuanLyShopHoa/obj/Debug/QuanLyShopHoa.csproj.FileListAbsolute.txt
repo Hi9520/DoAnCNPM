@@ -1,0 +1,16 @@
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\bin\Debug\QuanLyShopHoa.exe.config
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\bin\Debug\QuanLyShopHoa.exe
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\bin\Debug\QuanLyShopHoa.pdb
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.csprojAssemblyReference.cache
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.Properties.Resources.resources
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.csproj.GenerateResource.cache
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.csproj.CoreCompileInputs.cache
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.exe
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.pdb
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.frmLogin.resources
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.frmMain.resources
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.frmNV.resources
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.frmHH.resources
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.frmNH.resources
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.frmHD.resources
+D:\Std\Congnghephanmem\doan\PhanMem\QuanLyShopHoa\QuanLyShopHoa\obj\Debug\QuanLyShopHoa.frmTK.resources
